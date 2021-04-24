@@ -1,0 +1,4 @@
+# ignoring models
+*.pb
+*.tar
+*.tar.gz
