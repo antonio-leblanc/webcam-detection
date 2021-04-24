@@ -13,7 +13,7 @@ python livedetection.py
 
 ![vamo](detection-test.png)
 
-### References to install the packages on windows
+### References to install the packages on windows (why the hell am i using windows?)
 
 - Visual Studio Builders tool : https://visualstudio.microsoft.com/visual-cpp-build-tools/
 - Protoc : https://github.com/protocolbuffers/protobuf/blob/master/src/README.md#c-installation---windows
